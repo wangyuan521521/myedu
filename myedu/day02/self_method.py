@@ -39,10 +39,7 @@ def if_demo3():
         print(b)
 
 if __name__ == '__main__':
-    a = 1
-    if a ==2:
-        print()
 
-    pass
+
 
 
